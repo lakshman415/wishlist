@@ -19,7 +19,7 @@ Wishlit is a super cool to add your bucket list, and have stored for a life time
 
 ## Live Link
 
-https://mywishlist.netlify.app/
+https://this-is-mywishlist.netlify.app/
 
 
 ## Run Locally
